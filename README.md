@@ -1,5 +1,13 @@
 # 🤖 Gemini Chatbot (Streamlit Edition)
 
+
+![Streamlit](https://img.shields.io/badge/Framework-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)
+![Gemini API](https://img.shields.io/badge/API-Gemini-4285F4?logo=google&logoColor=white)
+![Deployment](https://img.shields.io/badge/Hosted%20On-Streamlit%20Cloud-FF4B4B?logo=streamlit&logoColor=white)
+
+
+
 ## Overview
 This project demonstrates how to build, optimize, and deploy a dynamic, API-integrated web application using the free Gemini API. The chatbot is designed for university students, providing concise, clear, and helpful explanations in a conversational interface. It showcases stateful chat sessions, secure API handling, and a responsive Streamlit UI.
 
