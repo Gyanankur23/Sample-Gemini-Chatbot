@@ -81,7 +81,7 @@ def main():
     if user_input:
         try:
             response = chat_session.send_message(user_input)
-            st.experimental_rerun()  # Refresh to show updated history
+            st.rerun()  # Refresh to show updated history
         except Exception as e:
             st.error(f"❌ Error: {e}")
 
