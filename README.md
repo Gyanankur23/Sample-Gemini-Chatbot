@@ -1,6 +1,7 @@
 # 🤖 Gemini Chatbot (Streamlit Edition)
 
-
+[![Live App](https://img.shields.io/badge/Streamlit-Live%20App-FF4B4B?logo=streamlit&logoColor=white)](https://sample-gemini-chatbot-8vue39zezr6hiea6jjb9t6.streamlit.app/)
+[![Source Code](https://img.shields.io/badge/Vercel-Source%20Code-000000?logo=vercel&logoColor=white)](https://github.com/Gyanankur23/Sample-Gemini-Chatbot)
 ![Streamlit](https://img.shields.io/badge/Framework-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 ![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)
 ![Gemini API](https://img.shields.io/badge/API-Gemini-4285F4?logo=google&logoColor=white)
